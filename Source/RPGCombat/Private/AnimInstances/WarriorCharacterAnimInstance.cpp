@@ -1,5 +1,4 @@
 #include "AnimInstances/WarriorCharacterAnimInstance.h"
-
 #include "Characters/WarriorBaseCharacter.h"
 #include "GameFramework/CharacterMovementComponent.h"
 
